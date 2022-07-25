@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Faith-Eshiet
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Data Analysis with Python
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me +2347039529104
