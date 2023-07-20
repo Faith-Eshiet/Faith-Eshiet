@@ -2,7 +2,7 @@
 - 👀 I’m a Data Analyst
 - 🌱 I’m skilled in SQL, Python, Tableau, and Power BI
 - 💞️ I'm eager to connect with hiring managers, data professionals, and like-minded individuals.
-- 📫 How to reach me at faitheshiet20@gmail.com
+- 📫 You can reach me at faitheshiet20@gmail.com
 
 <!---
 Faith-Eshiet/Faith-Eshiet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
