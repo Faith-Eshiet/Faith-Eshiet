@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Faith Eshiet Ugwu
+- 👋 Hi, I’m @Faith Eshiet
 - 👀 I’m a Data Analyst
-- 🌱 I’m skilled in SQL, Python, Tableau, and Power BI
+- 🌱 I’m skilled in Excel, SQL, Python, Tableau, and Power BI
 - 💞️ I'm eager to connect with hiring managers, data professionals, and like-minded individuals.
 - 📫 You can reach me at faitheshiet20@gmail.com
 
